@@ -29,6 +29,10 @@ plt.plot(np.arange(10), np.arange(0,60, 6), "bs", label="Blue Squares")
 
 
 #
+plt.axis([0, 10, 0, 60])
+plt.xlabel('X Axis')
+plt.ylabel('Y Axis')
+plt.show()
 
 
 
