@@ -1,3 +1,0 @@
-[submodule "image-retry"]
-	path = image-retry
-	url = https://github.com/docker/getting-started-app.git
